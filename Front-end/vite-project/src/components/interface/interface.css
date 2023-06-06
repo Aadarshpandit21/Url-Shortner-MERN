@@ -1,0 +1,52 @@
+.wholeBody{
+    height: 82vh;
+    background-color: rgb(157, 235, 235);  
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+}
+
+.inputClass{
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    background-color: rgb(138, 126, 126);
+}
+
+.buttonClass{
+    padding: 7px;
+    border-radius: 7px;
+    background-color: chartreuse;
+}
+
+.short-url-box {
+    margin-top: 10px;
+  }
+  
+  .short-url-box p {
+    font-weight: bold;
+    margin-bottom: 5px;
+
+  }
+  
+  .short-url-box a {
+    display: inline-block;
+    background-color: #f0f0f0;
+    padding: 5px;
+    border-radius: 3px;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .short-url-box a:hover {
+    background-color: #e0e0e0;
+  }
+
+  h2{
+       margin-left: 800px;
+  }
+
+  .readOnly{
+    padding: 10px;
+  }
